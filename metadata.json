@@ -1,0 +1,6 @@
+{
+  "name": "Offerly",
+  "description": "An interactive 16-step salary negotiation coach providing offer analysis, market intelligence, script preparation, and interactive practice chats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
