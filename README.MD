@@ -333,7 +333,7 @@ offerly-salary-negotiator/
 Product Manager | AI Specialist
 
 - 📧 Email: [katal.goldy@gmail.com](mailto:katal.goldy@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/goldy-katal-m-eng-aaa042100/]
+- 💼 LinkedIn: https://www.linkedin.com/in/goldy-katal-m-eng-aaa042100/
 - 🐙 GitHub: [github.com/GOLDYKATAL](https://github.com/GOLDYKATAL)
 
 ---
