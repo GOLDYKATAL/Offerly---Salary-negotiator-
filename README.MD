@@ -217,23 +217,6 @@ Company: Tech Startup (Series B)
 
 ---
 
-## 📦 Product & PRD Documentation
-
-### Complete Documentation Included
-- **[Product Requirements Document (PRD)](./docs/Offerly_PRD.md)** - Full feature specs with acceptance criteria
-- **[Voice Features Specification](./docs/Voice_Features_Spec.md)** - Detailed voice/speech implementation guide
-- **[Case Study Presentation](./docs/Offerly_Case_Study.pdf)** - User journey & impact visualization
-- **[Pitch Deck](./docs/Pitch_Deck.pdf)** - Investor/stakeholder presentation
-
-### Key Documents
-- Feature specifications with acceptance criteria
-- User personas and journey mapping
-- Success metrics and KPI tracking
-- Roadmap (Phases 1-4)
-- Technical architecture & API design
-
----
-
 ## 🛠️ How to Run Locally
 
 ### Prerequisites
@@ -350,7 +333,7 @@ offerly-salary-negotiator/
 Product Manager | AI Specialist
 
 - 📧 Email: [katal.goldy@gmail.com](mailto:katal.goldy@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/goldy-katal](https://linkedin.com/in/goldy-katal)
+- 💼 LinkedIn: [https://www.linkedin.com/in/goldy-katal-m-eng-aaa042100/]
 - 🐙 GitHub: [github.com/GOLDYKATAL](https://github.com/GOLDYKATAL)
 
 ---
